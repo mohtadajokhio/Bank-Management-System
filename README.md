@@ -1,5 +1,5 @@
 #                                                          Bank Management System
-### Members;
+### Members
 Agha Maarij
 Hatif Mujahid
 Mohtada Jokhio
