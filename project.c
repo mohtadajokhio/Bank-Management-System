@@ -20,6 +20,7 @@ void main(void)
     system("color 3");
     printf("THIS IS THE MAIN MENU.\n\n");
     printf("\n1) Admin login\n2) User login\n3) Exit Program\nChoose an option: ");
+    printf("test");
     scanf("%d", &code);
     system("cls");
     if (code == 2)
