@@ -11,6 +11,7 @@ void withdraw(void);
 void balance(void);
 void delete (void);
 void record(void);
+void check_password();
 
 void main(void)
 {
@@ -201,4 +202,8 @@ void delete (void)
 void record(void)
 {
     printf("here is the record: ");
+}
+void check_password()
+{
+    printf("Correct password\n");
 }
