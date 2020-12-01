@@ -18,7 +18,6 @@ void main(void)
     int code;
     system("cls");
     system("color 3");
-    printf("TEST");
     printf("THIS IS THE MAIN MENU.\n\n");
     printf("\n1) Admin login\n2) User login\n3) Exit Program\nChoose an option: ");
     printf("test");
