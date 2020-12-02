@@ -11,10 +11,10 @@ void withdraw(void);
 void balance(void);
 void delete (void);
 void record(void);
-void check_password();
-
+int check_password(char *pass);
 void main(void)
 {
+
     int code;
     system("cls");
     system("color 3");
@@ -204,7 +204,7 @@ void record(void)
 {
     printf("here is the record: ");
 }
-void check_password()
+int check_password(char *pass)
 {
     printf("Correct password\n");
 }
