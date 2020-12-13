@@ -9,4 +9,9 @@ Mohtada Jokhio.
 ### Features
 
 User Login  
-Admin Login
+Admin Login  
+Transactions  
+Password encryption  
+Show all records  
+Deposit  
+Withdraw
